@@ -1,0 +1,14 @@
+fields:
+    title:
+        label: Title
+        span: auto
+        type: text
+    prompt:
+        label: Prompt
+        size: ''
+        span: full
+        type: textarea
+    placeholder:
+        label: Placeholder
+        span: full
+        type: text

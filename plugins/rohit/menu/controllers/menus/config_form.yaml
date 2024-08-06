@@ -1,0 +1,10 @@
+name: Menus
+form: $/rohit/menu/models/menu/fields.yaml
+modelClass: Rohit\Menu\Models\Menu
+defaultRedirect: rohit/menu/menus
+create:
+    redirect: 'rohit/menu/menus/update/:id'
+    redirectClose: rohit/menu/menus
+update:
+    redirect: rohit/menu/menus
+    redirectClose: rohit/menu/menus

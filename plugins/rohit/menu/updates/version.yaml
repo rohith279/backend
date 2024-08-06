@@ -1,0 +1,8 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table rohit_menu_'
+    - builder_table_create_rohit_menu_.php
+v1.0.3:
+    - 'Updated table rohit_menu_'
+    - builder_table_update_rohit_menu_.php

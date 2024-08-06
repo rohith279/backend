@@ -1,0 +1,13 @@
+columns:
+    id:
+        label: ID
+        type: number
+    title:
+        label: Title
+        type: text
+    uid:
+        label: UID
+        type: text
+    conversation_id:
+        label: 'Conversation ID'
+        type: text

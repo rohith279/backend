@@ -1,0 +1,11 @@
+plugin:
+    name: 'dippuzen.chats::lang.plugin.name'
+    description: 'dippuzen.chats::lang.plugin.description'
+    author: Rohit
+    icon: oc-icon-comments
+    homepage: ''
+navigation:
+    chats:
+        label: 'dippuzen.chats::lang.plugin.name'
+        url: dippuzen/chats/chats
+        icon: icon-comments
